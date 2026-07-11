@@ -1,6 +1,8 @@
 # ReTerminal_Dark
 
-ReTerminal 是一款设计时尚、采用 Material 3 风格的终端模拟器，旨在作为经典的 Jackpal Terminal 的现代化替代品。它基于 Termux 强大的 TerminalView 构建而成。ReTerminal_Dark 基于 ReTerminal 修改，避免浅色模式字体颜色看不清楚，只有深色模式。
+ReTerminal 是一款设计时尚、采用 Material 3 风格的终端模拟器，旨在作为经典的 Jackpal Terminal 的现代化替代品。它基于 Termux 强大的 TerminalView 构建而成。
+
+ReTerminal_Dark 基于 ReTerminal 修改，避免浅色模式字体颜色看不清楚，只有深色模式。
 
 你可以从 Releases 页面 下载最新版的 APK 安装包。
 
