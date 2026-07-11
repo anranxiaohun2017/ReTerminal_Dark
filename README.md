@@ -21,5 +21,3 @@ Download the latest APK from the [Releases Section](https://github.com/RohitKush
 > [!TIP]
 Join the reTerminal community to stay updated and engage with other users:
 - [Telegram](https://t.me/reTerminal)
-# ReTerminal_Dark
-# ReTerminal_Dark
